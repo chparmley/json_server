@@ -13,7 +13,7 @@
 /get_animals/post <br>
 
 
-For public internet access to the server ensure the device running the server has port 5007 forwarded.<br>
+For public internet access to the server ensure the device intended to run it has port 5007 forwarded.<br>
 The server endpoints will then be reachable at http://your-public-ip-address<br><br>
 example: http://your-public-ip-address/user
 
