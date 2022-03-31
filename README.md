@@ -9,3 +9,12 @@
                  
 /get_animals <br>
 /get_animals/post <br>
+
+```
+git clone this url
+cd json_server
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python3 json_server.py
+```
