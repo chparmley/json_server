@@ -1,5 +1,4 @@
-# json_server
-
+# json_server <br>
 
 active endpoints: <br>
 /\<name\>   <- takes an argument in the url and returns json entry containing the argument <br>
