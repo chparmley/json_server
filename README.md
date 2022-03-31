@@ -10,6 +10,9 @@
 /get_animals <br>
 /get_animals/post <br>
 
+
+For public internet access to the server ensure the device running the server has port 5007 forwarded.
+
 ```
 git clone https://github.com/chparmley/json_server.git
 cd json_server
