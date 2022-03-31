@@ -1,6 +1,6 @@
 # json_server <br>
 
-active endpoints: <br>
+<h3>Active endpoints: </h3><br>  
 /\<name\>   <- takes an argument in the url and returns json entry containing the argument <br>
 /\<name\>/post <-- same except this route accepts post request instead <br>
                  
