@@ -1,11 +1,11 @@
 # json_server
 
 active endpoints: 
-/<name>   <- takes an argument in the url and returns json entry containing the argument 
-/<name>/post <-- same except this route accepts post request instead 
+/<name>   <- takes an argument in the url and returns json entry containing the argument <br>
+/<name>/post <-- same except this route accepts post request instead <br>
                  
-/get_users 
-/get_users/post 
+/get_users <br>
+/get_users/post <br>
                  
-/get_animals 
-/get_animals/post 
+/get_animals <br>
+/get_animals/post <br>
