@@ -11,7 +11,7 @@
 /get_animals/post <br>
 
 ```
-git clone this url
+git clone https://github.com/chparmley/json_server.git
 cd json_server
 python3 -m venv venv
 source venv/bin/activate
