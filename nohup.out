@@ -1,0 +1,53 @@
+ * Serving Flask app 'json_server' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.50.108:5007 (Press CTRL+C to quit)
+ * Serving Flask app 'json_server' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.50.108:5007 (Press CTRL+C to quit)
+192.168.50.1 - - [31/Mar/2022 06:15:23] "GET /get_users HTTP/1.1" 200 -
+192.168.50.1 - - [31/Mar/2022 06:30:38] "GET /get_users HTTP/1.1" 200 -
+ * Serving Flask app 'json_server' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.50.108:5007 (Press CTRL+C to quit)
+192.168.50.57 - - [31/Mar/2022 09:37:45] "GET /charles HTTP/1.1" 200 -
+192.168.50.57 - - [31/Mar/2022 09:37:45] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.50.1 - - [31/Mar/2022 14:29:28] "GET /get_users HTTP/1.1" 200 -
+192.168.50.1 - - [31/Mar/2022 14:29:28] "GET /favicon.ico HTTP/1.1" 200 -
+44.202.129.168 - - [31/Mar/2022 14:29:52] "[33mGET / HTTP/1.1[0m" 404 -
+78.139.15.68 - - [31/Mar/2022 14:31:10] "[33mGET / HTTP/1.1[0m" 404 -
+78.139.15.68 - - [31/Mar/2022 14:31:10] "GET /favicon.ico HTTP/1.1" 200 -
+3.238.64.44 - - [31/Mar/2022 14:42:03] "[33mGET / HTTP/1.1[0m" 404 -
+192.168.50.1 - - [31/Mar/2022 16:31:38] "GET /get_users HTTP/1.1" 200 -
+192.168.50.1 - - [31/Mar/2022 16:31:38] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.50.1 - - [31/Mar/2022 16:31:42] "[31m[1mGET /get_users/post HTTP/1.1[0m" 405 -
+192.168.50.1 - - [31/Mar/2022 16:31:42] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.50.1 - - [31/Mar/2022 16:31:51] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.50.1 - - [31/Mar/2022 16:32:10] "POST /get_animals/post HTTP/1.1" 200 -
+ * Serving Flask app 'json_server' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.50.108:5007 (Press CTRL+C to quit)
+192.168.50.1 - - [31/Mar/2022 16:36:20] "POST /charles/post HTTP/1.1" 200 -
