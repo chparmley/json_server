@@ -15,7 +15,7 @@
 
 For public internet access to the server ensure the device intended to run it has port 5007 forwarded.<br>
 The server endpoints will then be reachable at http://your-public-ip-address<br><br>
-example: http://your-public-ip-address/user
+example: https://api.serverops.tech/get_users
 
 ```
 git clone https://github.com/chparmley/json_server.git
