@@ -33,7 +33,7 @@ def send_json_post(user):
 def send_users():
 	users = {}
 	for num in range(25):
-		users[num]={'animal_id':randint(10000,100000),'firstname':choice(name_list), 'lastname':choice(name_list),'location':choice(city_list)}
+		users[num]={'id':randint(10000,100000),'firstname':choice(name_list), 'lastname':choice(name_list),'location':choice(city_list)}
 	return jsonify({'users':users}), 200
 
 @app.route('/get_animals')
